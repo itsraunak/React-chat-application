@@ -12,13 +12,13 @@ A React Redux Chat mockup app, where users can:
 - Fuzzy search for conversations with matching user names.
 - Hooks, and modern function based syntax. No class syntax used.
 
-Hosted app links:
+Hosted app links:https://joyful-entremet-c963ad.netlify.app/
 
 ---
 
 ### Video Walkthrough:
 
----
+## Video Link: https://www.youtube.com/watch?v=oSjDj1aHBjE
 
 ### Tech Features:
 
